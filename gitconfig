@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = wilsongarrit@gmail.com
+	email = g.wilson@insight.berlin
 	name = Garrit Wilson
